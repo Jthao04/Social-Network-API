@@ -13,7 +13,7 @@
 
 
 ## Screenshot
-![Fullscreen Image]()
+![Fullscreen Image](/Assets/Screenshot.png)
 
 ## Description
 
